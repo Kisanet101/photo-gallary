@@ -1,0 +1,29 @@
+.header {
+font-size: 100px;
+font-family: 'Notable', cursive;
+text-align:center;
+
+
+font-weight: 200;
+}
+
+strong {
+  color: red;
+  font-weight: 1500pt;
+}
+html {
+  background-color:#90EE90;
+}
+
+p{
+border: dashed;
+margin-top: auto;
+background-color: white;
+}
+img {
+  padding:10;
+  width:450;
+  height:450;
+  object-fit:cover;
+
+}
